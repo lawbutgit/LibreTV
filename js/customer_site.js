@@ -3,14 +3,6 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     }
-    heimuer: {
-        api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳', 
-      }
-      ruyi: {
-        api: 'http://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源'
-      }
 };
 
 // 调用全局方法合并
